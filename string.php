@@ -32,6 +32,6 @@
     $output2 = str_replace($search, $replace, $original);
     echo "<br><br>".$output2;
     
-
+    
 
 ?>
